@@ -1,0 +1,2 @@
+
+(funcall prescient-cache-callback :version '5 :history '#s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8125 data ("toggle-truncate-lines" 5 "python-mode" 4 "solve" 3 "my-scratch-buffer" 2 "*my-scratch-org-mode*" 1 "*scratch*" 0)) :frequency '#s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8125 data ("toggle-truncate-lines" 0.9821344612135428 "python-mode" 0.985089730404757 "solve" 0.988053892081 "my-scratch-buffer" 0.991026973 "*my-scratch-org-mode*" 0.994009 "*scratch*" 0.997)) :serial-number '6)
